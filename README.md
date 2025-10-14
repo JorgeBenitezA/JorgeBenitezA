@@ -2,7 +2,7 @@
 # 📂 Mis proyectos
 
 ## 🟢 Android
-- [LocalizacionMapa](https://github.com/LocalizacionMapa/LocalizacionMapa)
+- [LocalizacionMapa](https://github.com/JorgeBenitezA/LocalizacionMapa)
 
 
 ## 🔵 Java
