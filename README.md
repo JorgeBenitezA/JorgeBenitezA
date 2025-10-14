@@ -1,5 +1,5 @@
 # 📂 Mis proyectos
-Soy desarrollador de software apasionado por los proyectos Android y Java.  
+Soy estudiante de DAM enfocado en proyectos de Android y Java.  
 Aquí encontrarás mis trabajos y experimentos:
 
 ## 🟢 Android
