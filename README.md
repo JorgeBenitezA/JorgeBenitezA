@@ -4,6 +4,7 @@ Aquí encontrarás mis trabajos y experimentos:
 
 ## 🟢 Android
 - [LocalizacionMapa](https://github.com/JorgeBenitezA/LocalizacionMapa)
+*(Próximamente más proyectos...)*
 
 
 ## 🔵 Java
