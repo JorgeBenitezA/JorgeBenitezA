@@ -9,6 +9,6 @@ Aquí encontrarás mis trabajos y experimentos:
 
 ## 🔵 Java
 #### Experimentos:
-- [My2DGameTest](https://github.com/JorgeBenitezA/My2DGameTest)
+- [My2DGameTest](https://github.com/JorgeBenitezA/My2DGame)
 #### Proyectos  
 - *(Próximamente más proyectos...)*
